@@ -1,0 +1,24 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40px;
+    padding-top: 10px;
+
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+
+.navbar > ul{
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+
+}
+
+img{
+    mix-blend-mode: multiply;
+}

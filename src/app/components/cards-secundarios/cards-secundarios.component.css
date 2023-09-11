@@ -1,0 +1,31 @@
+.container-cards {
+    width: 600px;
+    height: 125px;
+    margin-top: 50px;
+    align-items: center;
+    display: flex;
+    -webkit-box-shadow: -2px 2px 21px -12px rgba(255, 255, 255, 1);
+    -moz-box-shadow: -2px 2px 21px -12px rgba(255, 255, 255, 1);
+    box-shadow: -2px 2px 21px -12px rgba(255, 255, 255, 1);
+    border: 0.5px solid black;
+}
+
+img {
+    object-fit: cover;
+    margin-left: 10px;
+}
+
+.descricao{
+    margin-left: 25px;
+    width: 500px;
+}
+
+h1 {
+    color: rgba(255, 255, 255, 0.59);
+    font-size: 22px;
+
+}
+
+a{
+    text-decoration: none;
+}

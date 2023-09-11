@@ -1,0 +1,9 @@
+.container-cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container-secundarios{
+    margin-top: 0px;
+    margin-left: 150px;
+}

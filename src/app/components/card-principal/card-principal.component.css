@@ -1,0 +1,34 @@
+.container-card {
+    border: 2px solid rgba(0, 0, 0, 0.074);
+    display: flex;
+    width: 470px;
+    height: 480px;
+    margin-top: 50px;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 10px;
+    -webkit-box-shadow: -2px 2px 21px -12px rgba(255, 255, 255, 1);
+    -moz-box-shadow: -2px 2px 21px -12px rgba(255, 255, 255, 1);
+    box-shadow: -2px 2px 21px -12px rgba(255, 255, 255, 1);
+}
+
+a{
+    text-decoration: none;
+}
+
+.descricao {
+    width: 400px;
+    text-align: start;
+    margin-top: 25px;
+}
+
+.descricao h1 {
+    color: rgba(255, 255, 255, 0.59);
+    font-size: 22px;
+}
+
+.descricao h4 {
+    font-size: 12px;
+    margin-top: 10px;
+    color: rgb(65, 65, 65);
+}
