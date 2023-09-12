@@ -12,4 +12,6 @@ imgUrl:string = ''
 tituloCard:string = ''
 @Input()
 link:string = ''
+@Input()
+Id:string = ''
 }

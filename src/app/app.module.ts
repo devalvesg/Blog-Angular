@@ -8,11 +8,12 @@ import { NavbarComponent } from 'src/app/components/navbar/navbar.component';
 import { TituloPrincipalComponent } from 'src/app/components/titulo-principal/titulo-principal.component';
 import { CardPrincipalComponent } from 'src/app/components/card-principal/card-principal.component';
 import { CardsSecundariosComponent } from 'src/app/components/cards-secundarios/cards-secundarios.component';
+import { ContentComponent } from './pages/content/content.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent, HomeComponent, NavbarComponent,TituloPrincipalComponent, CardPrincipalComponent, CardsSecundariosComponent
+    AppComponent, HomeComponent, NavbarComponent,TituloPrincipalComponent, CardPrincipalComponent, CardsSecundariosComponent, ContentComponent
   ],
   imports: [
     BrowserModule,

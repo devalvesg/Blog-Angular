@@ -12,4 +12,7 @@ export class CardPrincipalComponent {
   tituloCard:string = ''
   @Input()
   descricaoCard:string = ''
+
+  @Input()
+  Id:string = '0'
 }
